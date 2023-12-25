@@ -75,5 +75,14 @@
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
+  },
+  "analytics": {
+    "koala": {
+      "publicApiKey": "pk_5d9e42230081cd0312b9ae839354fa9bce01"
+    },
+    "hotjar": {
+      "hjid": "3805525",
+      "hjsv": "6"
+    }
   }
 }
