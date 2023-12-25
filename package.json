@@ -1,0 +1,15 @@
+{
+  "name": "bannerify-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bunx mintlify dev --port 3333",
+    "update": "git add . && git commit -m 'update' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bannerify/docs.git"
+  },
+  "private": true
+}
